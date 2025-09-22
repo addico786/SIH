@@ -1,4 +1,4 @@
-# SIH prtotype
+# SIH prototype
 
 ## Frontend
 
